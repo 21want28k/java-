@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exam>
+    <student examid="222" idcard="111">
+        <name>张三</name>
+        <location>沈阳</location>
+        <grade>89</grade>
+    </student>
+    <student examid="123456" idcard="1516001043">
+        <name>肖鑫</name>
+        <location>南京</location>
+        <grade>96</grade>
+    </student>
+</exam>
